@@ -1,1 +1,6 @@
-README CONTENT
+VPROFILE PROJECT
+TECH:
+java
+python
+shell 
+
